@@ -12,7 +12,7 @@ IETF 119 starts Saturday 16 March and runs through Friday afternoon, 22 March.
 <a href="https://www.ietf.org/how/meetings/guide-ietf-meetings/" target="_blank">IETF 119 ガイド</a>  
 &nbsp;  
 
-|優先度|時間|wg|wg name|担当|
+|優先度|時間|wg|wg name|翻訳担当|
 ----|----|----|----|----
 ||2024年3月17日日曜日
 ||10:00 - 12:00||IEPG||
