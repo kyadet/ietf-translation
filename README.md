@@ -26,7 +26,7 @@ https://www.ietf.org/standards/process/
 IETFの標準化作業は大まかには以下のように進みます。  
 1. 標準化策定をするワーキンググループ(以降WG)を決める、なければWGを作る
    - WGを作るために特定のテーマに興味を持つ有志の会BoF(birds of a feather)を作りそこでWG作成の準備を行います。
-   - WGを正式に作成するに際してIETFのIESGに提案し、提案が通ればWG作成され、WGにIETFから担当ディレクタが割り当てられ、WGの進行役を務めるWG Chair(いわゆる議長=Chair man)を決める。
+   - WGを正式に作成するに際してIETFのIESGに提案し、提案が通ればWG作成され、WGにIETFから担当ディレクタが割り当てられ、WGの進行役を務めるWG Chair(いわゆる議長=Chair person)を決める。
 2. WGにてRFC(Request for Comments）の草案を提出し提案を行い協議を繰り返す。RFC化がされる前の草案段階のRFCをInternet Draftsと呼ぶ。
 3. Internet Draftsが正式に認められるとRFC番号が割り当てられ、RFCが発行されたことが勧告される。
 4. RFC化標準化された後で発生した問題などを協議し追加のRFCや修正について協議する。
